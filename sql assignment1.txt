@@ -1,0 +1,16 @@
+1.Parent table contain primary key and child table contain foreign key.
+
+2.The four components of a database management system are
+i)Hierarchical database system
+ii)Network database system
+iii)Non relational database system
+iv)object oriented database system
+
+3.SQL is a query language in which we can access or modify data
+and SQL Plus is a command line tool which we can send SQL query to server
+
+4.Normalization is the process of organizing data into related table.
+it eleminates redundancy and improve integrity.It enhances the distribution
+of data and performance of query.
+
+5.
